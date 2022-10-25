@@ -1,0 +1,26 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "sass peoject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlinaAprel/sass-project.git"
+  },
+  "keywords": [
+    "sass",
+    "project"
+  ],
+  "author": "Alina Aprel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlinaAprel/sass-project/issues"
+  },
+  "homepage": "https://github.com/AlinaAprel/sass-project#readme",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+}
